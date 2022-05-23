@@ -1,6 +1,8 @@
 # [Template] MOH Server Query Discord-Bot
 A Discord Bot Template for querying MoH: Allied Assault, Spearhead and Breakthrough servers
 
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
 ---
 
 ## Installation
